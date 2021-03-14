@@ -13,7 +13,7 @@ def fgr(num: int) -> str:
 
     def _():
         nonlocal n
-        if len(n) > 1 and n[0] == '1':
+        if len(n) == 2 and n[0] == '1':
             return 'th'
         elif n[-1] == '1':
             return 'st'
