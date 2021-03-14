@@ -27,3 +27,21 @@ print(fgr(17267388723))
 
 #prints 17267388723rd
 ```
+
+## recursives
+
+learning and testing recursive functions, embedded functions. will add other examples maybe.
+
+available methods:
+
+- factorial:
+
+  Calculates the factorial of a number. n!
+
+- print_no_loop:
+
+  Prints a number mulitple times
+
+- add_no_loop:
+
+  Adds a number multiple times
